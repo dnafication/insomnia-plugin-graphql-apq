@@ -1,0 +1,34 @@
+{
+  "name": "insomnia-plugin-apq",
+  "version": "0.0.1",
+  "private": true,
+  "insomnia": {
+    "name": "apq",
+    "displayName": "GraphQL APQ Requests",
+    "description": "Convert a GraphQL POST request to an Apollo APQ GET request",
+    "images": {
+      "icon": "icon.svg",
+      "cover": "cover.png"
+    },
+    "publisher": {
+      "name": "Dina Basumatary"
+    }
+  },
+  "main": "main.js",
+  "author": {
+    "name": "Dina Basumatary",
+    "email": "basu.dins@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "graphql",
+    "apollo",
+    "apq",
+    "insomnia",
+    "plugin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dnafication/insomnia-plugin-graphql-apq"
+  }
+}
